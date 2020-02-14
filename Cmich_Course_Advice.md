@@ -11,27 +11,27 @@ Here we have Mark, an above average student going to Central.  He took AP Englis
 ## Step 1:  Classes Already Taken
 Let's start by looking at what Mark has taken so far:
 
->AP English (passed test with a 4)
->English Composition II
->Mythology
->Creative Writing
->The American Civil War
->Principles of Marketing
->Intro to Sociology
->American Sign Language I
->Intermediate Algebra
+>AP English (passed test with a 4)  
+>English Composition II  
+>Mythology  
+>Creative Writing  
+>The American Civil War  
+>Principles of Marketing  
+>Intro to Sociology  
+>American Sign Language I  
+>Intermediate Algebra  
 
 The first question to ask is which of these transfers in, and what does it transfer in as?  Central has a tool to see how any class is transferred. 
 
-'AP English -> ENG 101 Freshman Composition'
-'nglish Composition II -> ENG 201 Intermediate Composition'
-Mythology -> English Credit (3)
-Creative Writing -> ENG 294 Introduction to Creative Writing
-The American Civil War -> History Credit (3)
-Principles of Marketing ->; Got a C-, need at least a C to transfer
-Intro to Sociology -> SOC 100 Introductory Sociology
-American Sign Language I -> ASL Credit (4)
-Intermediate Algebra -> MTH 105 Intermediate Algebra'
+>AP English -> ENG 101 Freshman Composition  
+>English Composition II -> ENG 201 Intermediate Composition  
+>Mythology -> English Credit (3)  
+>Creative Writing -> ENG 294 Introduction to Creative Writing  
+>The American Civil War -> History Credit (3)  
+>Principles of Marketing ->; Got a C-, need at least a C to transfer  
+>Intro to Sociology -> SOC 100 Introductory Sociology  
+>American Sign Language I -> ASL Credit (4)  
+>Intermediate Algebra -> MTH 105 Intermediate Algebra'  
 
 As you can see, not everything transfers in as a class, or at all.  Mark got lucky in that he didn't take anything that didn't have an equivalent at Central.  He didn't get lucky in that some of his courses won't count toward specific requirements, outside of the overall credit count and major electives. 
 
