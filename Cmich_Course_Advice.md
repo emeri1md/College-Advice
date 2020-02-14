@@ -1,4 +1,5 @@
 # Introduction
+
 I was a college student for eight years.  The first thing you might assume is that it took me that long to graduate with a Bachelor degree.  A lot of people think that, so I usually just put it out there.  Unfortunately, that can sound like I'm bragging, when I'm just trying to state a fact to avoid a misinterpretation.  In those eight years, I earned two minors, two majors, and a Mastery.  Now it sounds like I put my time to good use, but I actually could have had all that in seven years.  For this guide, I'm going to assume that you've already chosen one or more majors and zero or more minors.
 ---
 One technique I used before I even started at a four year university was to list every class that I had taken during high school (and what it transferred in as), all classes required by my major, all competency courses (two English, one math, and one speaking), any electives needed for my major, any general education courses required, any degree electives required, and then any fill-in-the-blanks to get to the number of credits required to graduate.  I'm going to run through a very generic process from beginning to end for someone with a major, minor, and several classes transferring in.  I'm also going to use Central Michigan University's program, as it's the one I'm most familiar with.  I'll use their current version, so you can follow along with me, if you like.
@@ -10,20 +11,20 @@ Here we have Mark, an above average student going to Central.  He took AP Englis
 ## Step 1:  Classes Already Taken
 Let's start by looking at what Mark has taken so far:
 
-'AP English (passed test with a 4)
-English Composition II
-Mythology
-Creative Writing
-The American Civil War
-Principles of Marketing
-Intro to Sociology
-American Sign Language I
-Intermediate Algebra'
+>AP English (passed test with a 4)
+>English Composition II
+>Mythology
+>Creative Writing
+>The American Civil War
+>Principles of Marketing
+>Intro to Sociology
+>American Sign Language I
+>Intermediate Algebra
 
 The first question to ask is which of these transfers in, and what does it transfer in as?  Central has a tool to see how any class is transferred. 
 
-'AP English -> ENG 101 Freshman Composition
-English Composition II -> ENG 201 Intermediate Composition
+'AP English -> ENG 101 Freshman Composition'
+'nglish Composition II -> ENG 201 Intermediate Composition'
 Mythology -> English Credit (3)
 Creative Writing -> ENG 294 Introduction to Creative Writing
 The American Civil War -> History Credit (3)
