@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 I was a college student for eight years.  The first thing you might assume is that it took me that long to graduate with a Bachelor degree.  A lot of people think that, so I usually just put it out there.  Unfortunately, that can sound like I'm bragging, when I'm just trying to state a fact to avoid a misinterpretation.  In those eight years, I earned two minors, two majors, and a Mastery.  Now it sounds like I put my time to good use, but I actually could have had all that in seven years.  For this guide, I'm going to assume that you've already chosen one or more majors and zero or more minors.
 ---
 One technique I used before I even started at a four year university was to list every class that I had taken during high school (and what it transferred in as), all classes required by my major, all competency courses (two English, one math, and one speaking), any electives needed for my major, any general education courses required, any degree electives required, and then any fill-in-the-blanks to get to the number of credits required to graduate.  I'm going to run through a very generic process from beginning to end for someone with a major, minor, and several classes transferring in.  I'm also going to use Central Michigan University's program, as it's the one I'm most familiar with.  I'll use their current version, so you can follow along with me, if you like.
@@ -7,7 +7,7 @@ Here's the [link](https://bulletins.cmich.edu/).  I'll be using a mixture of the
 
 Here we have Mark, an above average student going to Central.  He took AP English in high school, as well as several courses at a local community college, all of which he passed.  He thinks he knows that degree he wants to earn:  a major in history and a minor in sociology.  He had never really thought about it back during high school, but his interest in reading and writing historical fiction, especially how groups of people worked together to get through difficult times, was a neon arrow that he utterly missed.  Thankfully, he took a general history course with an excellent teacher
 
-##Step 1:  Classes Already Taken
+## Step 1:  Classes Already Taken
 Let's start by looking at what Mark has taken so far:
 
 'AP English (passed test with a 4)
@@ -49,7 +49,7 @@ Total Credits:  25'
 
 All in all, not too bad.  Mark is just one credit shy of starting as a sophomore.
 
-##Step 2:  The Major(s)
+## Step 2:  The Major(s)
 Now we need to add the required classes for Mark's major.  For the history major, there are requirements that make a student take a broad view of history, while still giving them choices.  Starting out, there are two required courses that all must take:
 
 'HST 300 - The Craft of History (3)
@@ -113,7 +113,7 @@ Major Credits:  33/33
 
 Total Credits:  58'
 
-#Step 3:  The Minor(s)
+## Step 3:  The Minor(s)
 As Mark decided on a sociology minor, he needs to go through this step.  As it's a minor, it's a bit easier to work this out.  For this specific minor, he starts with four required courses:
 
 'SOC 100 - Introductory Sociology (3)
@@ -168,7 +168,7 @@ Minor Credits:  24/23
 
 Total Credits:  79'
 
-##Step 4:  General Education Requirements
+## Step 4:  General Education Requirements
 This step can be done before or after step 5.  Either way, a later step will go back through the list and change things.
 
 Central has a 30 credit Gen Ed requirement, where you have to choose from a list in each of nine categories, as well as a tenth course (or at least have 30 credits total) from any of the lists.  You can only take two from the same department once, meaning that if you count two history courses (both starting with HST), then you can't also count two sociology courses toward the Gen Ed requirement.  Most universities have something similar.
@@ -242,7 +242,7 @@ Total Credits:  88'
 
 This a long, and nearly overwhelming, list of courses.  And we aren't even done.
 
-#Step 5:  Degree Requirements
+## Step 5:  Degree Requirements
 The history major allows Mark to choose between either the Bachelor of Arts or the Bachelor of Science.  Both have different requirements.  The BA requires that the student take up to the fourth class of a foreign language, 15 credits from the humanities, 15 credits from the natural science, and 15 credits from the social sciences.  The BS is broken up into Plan A and Plan B, no language requirements, and fewer extra classes.  Plan A is for any major with an optional minor and requires an extra six credits.  Plan B has a few options, but it amounts to either a major and/or minor from an approved list.  Thankfully, both Mark's history major and sociology minor are on the list.  As Mark doesn't want to spend five or more years and a lot more money, he decides work toward the BS Plan B Option 1 (approved major, any minor). 
 
 Mark first needs to select six credits from the humanities.  As any class from the English department counts, he already has this.  Next, he needs six credits from the natural sciences.  His math and physics courses count toward this.  Finally, he needs to select six credits from the social sciences.  Here, his sociology courses count, meaning that he is already meeting all degree requirements from his existing course list.
@@ -295,7 +295,7 @@ Minor Credits:  24/23
 
 Total Credits:  104/124'
 
-#Step 6:  Competency Requirements
+## Step 6:  Competency Requirements
 This is your English, math, and speech requirement list.  Mark already has the two English requirements, and maybe the math as well.  The speech requirement contains a course that is also listed as a Gen Ed course.  Mark decides to drop the ENG 134 course and instead selects:
 
 'TAI 170 - Oral Interpretation of Literature (3)'
@@ -345,7 +345,7 @@ Minor Credits:  24/23
 
 Total Credits:  104/124'
 
-##Step 7:  General Electives
+## Step 7:  General Electives
 Mark has every required course selected, and his list totals to 104 credits.  A BS degree requires that he earn 124.  He has 20 more credits to select.  There are multiple ways he could do this.  He could select one or more minors, he could change his minor into a second major, he could take a series of language courses, or he could select any course he wishes to add to his list. 
 
 Looking over the sociology major, Mark sees that he would only need to add a few courses, and maybe change one or two, and the minor would easily change into a major.  There doesn't seem to be an English minor that focuses on writing, and the major adds too many classes that have nothing to do with what he wants to spend his life doing.  He didn't enjoy ASL enough to continue on with it, nor does he want to have to take the Central equivalent of a course that he has already taken.  Taking language courses could be interesting, but would force him to contort his schedule to make everything fit.  It seems best to add courses as he sees fit, partially to try some new things, as well as giving him a lot more flexibility in his future scheduling.
@@ -418,7 +418,7 @@ Total Credits:  104/124'
 
 As he has 25 credits complete, he will start as a freshman.  It will take him, at the recommended 15 credits a semester, just over three years to complete his degree, so long as he uses the scheduling techniques that will be mentioned in just a bit.  One thing he can do to make his life even easier is to take one or two courses each summer through his old community college.  It really depends on what is offered and what transfers. 
 
-##Step 8:  Creating a Semester Schedule
+## Step 8:  Creating a Semester Schedule
 Here is where it all comes together.  All Mark has at the moment is a very long list which makes him wonder how anyone can make it through college in less than a decade.  The entire point of having this list, besides making sure you're on track to graduate, is to help you get a good schedule each and every semester.  We don't want you to be overcrowded with five high level history courses, have it too easy with five low level electives, or find that the one courses you must have no matter what isn't being offered your last semester.
 
 Okay, it's spring and Mark has the available class list for the following fall.  He's all ready to start figuring out his courses, but where does he start?  Here is what he needs to focus on by priority:
@@ -435,7 +435,7 @@ First and foremost, he needs to take two classes from his major.  He has 11 clas
 
 As for what what he schedules when, it's largely up to Mark.  He could schedule everything from 8-11 five days a week, if he;s a morning person.  Or he could go with 1-4, and be able to sleep in every day.  Or have everything two or three days a week.  So long as he gets the classes he needs, then fills in with electives, he'll be fine. 
 
-###Notes
+### Notes
 When I started at Central a while ago, I had 30 credits transferring in, most of which were just credit.  I went into computer science and no minor.  I did the above one night in even more detail; I kept track of which requirement every course counted as, what was a prereq to what, what I planned to take the following semester (if it was offered), and such.  Despite having long chains of prereqs with my classes, I still finished in three years. 
 
 This technique is also useful for planning out your graduate studies, as I later found out.  It can also be used for going to multiple schools at once, such as a four year university and a community college at the same time.  You can also adapt it to any other university system, though I would recommend taking your list to an academic adviser to make sure all requirements are being met.
