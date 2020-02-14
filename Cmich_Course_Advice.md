@@ -1,7 +1,7 @@
 # Introduction
 
 I was a college student for eight years.  The first thing you might assume is that it took me that long to graduate with a Bachelor degree.  A lot of people think that, so I usually just put it out there.  Unfortunately, that can sound like I'm bragging, when I'm just trying to state a fact to avoid a misinterpretation.  In those eight years, I earned two minors, two majors, and a Mastery.  Now it sounds like I put my time to good use, but I actually could have had all that in seven years.  For this guide, I'm going to assume that you've already chosen one or more majors and zero or more minors.
----
+
 One technique I used before I even started at a four year university was to list every class that I had taken during high school (and what it transferred in as), all classes required by my major, all competency courses (two English, one math, and one speaking), any electives needed for my major, any general education courses required, any degree electives required, and then any fill-in-the-blanks to get to the number of credits required to graduate.  I'm going to run through a very generic process from beginning to end for someone with a major, minor, and several classes transferring in.  I'm also going to use Central Michigan University's program, as it's the one I'm most familiar with.  I'll use their current version, so you can follow along with me, if you like.
 
 Here's the [link](https://bulletins.cmich.edu/).  I'll be using a mixture of the interactive version along the PDF version, both for the 2013-14 school year.
@@ -31,143 +31,143 @@ The first question to ask is which of these transfers in, and what does it trans
 >Principles of Marketing ->; Got a C-, need at least a C to transfer  
 >Intro to Sociology -> SOC 100 Introductory Sociology  
 >American Sign Language I -> ASL Credit (4)  
->Intermediate Algebra -> MTH 105 Intermediate Algebra'  
+>Intermediate Algebra -> MTH 105 Intermediate Algebra
 
 As you can see, not everything transfers in as a class, or at all.  Mark got lucky in that he didn't take anything that didn't have an equivalent at Central.  He didn't get lucky in that some of his courses won't count toward specific requirements, outside of the overall credit count and major electives. 
 
 At the end of step 1, here is Mark's current class list:
 
-'ENG 101 - Freshman Composition (3)
-ENG 201 - Intermediate Composition (3)
-ENG 294 - Introduction to Creative Writing (3)
-SOC 100 - Introductory Sociology (3)
-MTH 105 - Intermediate Algebra (3)
-English Credit (3)
-History Credit (3)
-ASL Credit (4)
-
-Total Credits:  25'
+>ENG 101 - Freshman Composition (3)  
+>ENG 201 - Intermediate Composition (3)  
+>ENG 294 - Introduction to Creative Writing (3)  
+>SOC 100 - Introductory Sociology (3)  
+>MTH 105 - Intermediate Algebra (3)  
+>English Credit (3)  
+>History Credit (3)  
+>ASL Credit (4)
+>
+>Total Credits:  25
 
 All in all, not too bad.  Mark is just one credit shy of starting as a sophomore.
 
 ## Step 2:  The Major(s)
 Now we need to add the required classes for Mark's major.  For the history major, there are requirements that make a student take a broad view of history, while still giving them choices.  Starting out, there are two required courses that all must take:
 
-'HST 300 - The Craft of History (3)
-HST 496 - Research Seminar (3)'
+>HST 300 - The Craft of History (3)  
+>HST 496 - Research Seminar (3)
 
 Next, Marks gets to choose one course from a list related to US history.  Due to his interest in contentious times (they make for better historical fiction), he chooses:
 
-'HST 315 - The Vietnam War (3)'
+>HST 315 - The Vietnam War (3)
 
 Next is to choose from a list of courses pertaining to European history.  Mark likes the look of a few of them, but chooses:
 
-'HST 352 - British Imperialism (3)'
+>HST 352 - British Imperialism (3)
 
-The next list is about non-western history, though some of them are general world history, and therefore touch on  the western world (a lot).  Mark decides on:
+The next list is about non-western history, though some of them are general world history, and therefore touch on the western world (a lot).  Mark decides on:
 
-'HST 379 - Race, Class and Power: South Africa in the 20th Century (3)'
+>HST 379 - Race, Class and Power: South Africa in the 20th Century (3)
 
 The final list is about pre-modern history, and Mark decides on:
 
-'HST 505 - Tudor England (3)'
+>HST 505 - Tudor England (3)
 
 The last of the requirements before moving on to major electives has Mark selecting two more courses numbered from 100-599, which is nearly any history course.  Looking back over the previous lists, Mark likes the sound of:
 
-'HST 238 - Ancient Greece and Rome (3)
-HST 353 - Germany since 1870 (3)'
+>HST 238 - Ancient Greece and Rome (3)  
+>HST 353 - Germany since 1870 (3)
 
 The first of the electives selections requires two courses numbered 300-500.  Mark continues to look around for classes that can give him interesting backdrops for his fiction writing.  He decides on:
 
-'HST 369 - Traditional China (3)
-HST 325 - African American History, 1877-Present (3)'
+>HST 369 - Traditional China (3)  
+>HST 325 - African American History, 1877-Present (3)
 
 The final courses he needs to choose from has to be numbered at 500 or above, but not counting 590.  There are fewer choices here, and they are bound to be more difficult, since they count as graduate level courses as well.
 
-'HST 524 - American Diplomatic History Since 1898 (3)'
+>HST 524 - American Diplomatic History Since 1898 (3)
 
 Now Mark is done choosing classes for his major.  He chose his courses based on what he would like to do:  write and sell historical fiction, probably on the side.  He chose classes that focus on contentious periods, including various wars, civil rights movements, and events placing the rulers against the ruled. 
 
 At the end of step 2, here is Mark's master class list:
 
-'ENG 101 - Freshman Composition (3)
-ENG 201 - Intermediate Composition (3)
-ENG 294 - Introduction to Creative Writing (3)
-SOC 100 - Introductory Sociology (3)
-MTH 105 - Intermediate Algebra (3)
-HST 300 - The Craft of History (3)
-HST 496 - Research Seminar (3)
-HST 315 - The Vietnam War (3)
-HST 352 - British Imperialism (3)
-HST 379 - Race, Class and Power: South Africa in the 20th Century (3)
-HST 505 - Tudor England (3)
-HST 238 - Ancient Greece and Rome (3)
-HST 353 - Germany since 1870 (3)
-HST 369 - Traditional China (3)
-HST 325 - African American History, 1877-Present (3)
-HST 524 - American Diplomatic History Since 1898 (3)
-English Credit (3)
-History Credit (3)
-ASL Credit (4)
-
-Major Credits:  33/33
-
-Total Credits:  58'
+>ENG 101 - Freshman Composition (3)  
+>ENG 201 - Intermediate Composition (3)  
+>ENG 294 - Introduction to Creative Writing (3)  
+>SOC 100 - Introductory Sociology (3)  
+>MTH 105 - Intermediate Algebra (3)  
+>HST 300 - The Craft of History (3)  
+>HST 496 - Research Seminar (3)  
+>HST 315 - The Vietnam War (3)  
+>HST 352 - British Imperialism (3)  
+>HST 379 - Race, Class and Power: South Africa in the 20th Century (3)  
+>HST 505 - Tudor England (3)  
+>HST 238 - Ancient Greece and Rome (3)  
+>HST 353 - Germany since 1870 (3)  
+>HST 369 - Traditional China (3)  
+>HST 325 - African American History, 1877-Present (3)  
+>HST 524 - American Diplomatic History Since 1898 (3)  
+>English Credit (3)  
+>History Credit (3)  
+>ASL Credit (4)
+>
+>Major Credits:  33/33
+>
+>Total Credits:  58
 
 ## Step 3:  The Minor(s)
 As Mark decided on a sociology minor, he needs to go through this step.  As it's a minor, it's a bit easier to work this out.  For this specific minor, he starts with four required courses:
 
-'SOC 100 - Introductory Sociology (3)
-SOC 200 - Introduction to Social Research and Analysis (3)
-SOC 301 - Sociological Theory (3)
-SOC 350 - Social Research Methodologies (3)'
+>SOC 100 - Introductory Sociology (3)  
+>SOC 200 - Introduction to Social Research and Analysis (3)  
+>SOC 301 - Sociological Theory (3)  
+>SOC 350 - Social Research Methodologies (3)
 
 Next is one elective chosen from a list.  There are a couple Mark is thinking about, but decides on:
 
-'SOC 304 - Collective Behavior (3)'
+>SOC 304 - Collective Behavior (3)
 
 Finally, he has to choose any eight credits worth of courses.  Looking through the course descriptions, he chooses:
 
-'SOC 302 - Social Inequality (3)
-SOC 321 - Deviant Behavior (3)
-SOC 215 - Youth, Deviance, and Institutions (3)'
+>SOC 302 - Social Inequality (3)  
+>SOC 321 - Deviant Behavior (3)  
+>SOC 215 - Youth, Deviance, and Institutions (3)
 
 There isn't a way to get exactly five credits, and so has to choose six.
 
 At the end of step 3, here is the master class list:
 
-'ENG 101 - Freshman Composition (3)
-ENG 201 - Intermediate Composition (3)
-ENG 294 - Introduction to Creative Writing (3)
-SOC 100 - Introductory Sociology (3)
-MTH 105 - Intermediate Algebra (3)HST 300 - The Craft of History (3)
-HST 496 - Research Seminar (3)
-HST 315 - The Vietnam War (3)
-HST 352 - British Imperialism (3)
-HST 379 - Race, Class and Power: South Africa in the 20th Century (3)
-HST 505 - Tudor England (3)
-HST 238 - Ancient Greece and Rome (3)
-HST 353 - Germany since 1870 (3)
-HST 369 - Traditional China (3)
-HST 325 - African American History, 1877-Present (3)
-HST 524 - American Diplomatic History Since 1898 (3)
-SOC 100 - Introductory Sociology (3)
-SOC 200 - Introduction to Social Research and Analysis (3)
-SOC 301 - Sociological Theory (3)
-SOC 350 - Social Research Methodologies (3)
-SOC 304 - Collective Behavior (3)
-SOC 302 - Social Inequality (3)
-SOC 321 - Deviant Behavior (3)
-SOC 215 - Youth, Deviance, and Institutions (3)
-English Credit (3)
-History Credit (3)
-ASL Credit (4)
-
-Major Credits:  33/33
-
-Minor Credits:  24/23
-
-Total Credits:  79'
+>ENG 101 - Freshman Composition (3)  
+>ENG 201 - Intermediate Composition (3)  
+>ENG 294 - Introduction to Creative Writing (3)  
+>SOC 100 - Introductory Sociology (3)  
+>MTH 105 - Intermediate Algebra (3)HST 300 - The Craft of History (3)  
+>HST 496 - Research Seminar (3)  
+>HST 315 - The Vietnam War (3)  
+>HST 352 - British Imperialism (3)  
+>HST 379 - Race, Class and Power: South Africa in the 20th Century (3)  
+>HST 505 - Tudor England (3)  
+>HST 238 - Ancient Greece and Rome (3)  
+>HST 353 - Germany since 1870 (3)  
+>HST 369 - Traditional China (3)  
+>HST 325 - African American History, 1877-Present (3)  
+>HST 524 - American Diplomatic History Since 1898 (3)  
+>SOC 100 - Introductory Sociology (3)  
+>SOC 200 - Introduction to Social Research and Analysis (3)  
+>SOC 301 - Sociological Theory (3)  
+>SOC 350 - Social Research Methodologies (3)  
+>SOC 304 - Collective Behavior (3)  
+>SOC 302 - Social Inequality (3)  
+>SOC 321 - Deviant Behavior (3)  
+>SOC 215 - Youth, Deviance, and Institutions (3)  
+>English Credit (3)  
+>History Credit (3)  
+>ASL Credit (4)
+>
+>Major Credits:  33/33
+>
+>Minor Credits:  24/23
+>
+>Total Credits:  79
 
 ## Step 4:  General Education Requirements
 This step can be done before or after step 5.  Either way, a later step will go back through the list and change things.
